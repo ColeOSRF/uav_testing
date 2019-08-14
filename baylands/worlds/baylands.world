@@ -24,6 +24,13 @@
           <geometry>
             <mesh><uri>file://media/baylands_01.DAE</uri></mesh>
           </geometry>
+          <material>
+            <script>
+              <uri>file://media/scripts/</uri>
+              <uri>file://media/textures/</uri>
+              <name>OakTree/Branch</name>
+            </script>
+          </material>
         </visual>
         <collision name="collision">
           <geometry>
@@ -41,6 +48,13 @@
           <geometry>
             <mesh><uri>file://media/baylands_02.DAE</uri></mesh>
           </geometry>
+          <material>
+            <script>
+              <uri>file://media/scripts/</uri>
+              <uri>file://media/textures/</uri>
+              <name>OakTree/Branch</name>
+            </script>
+          </material>
         </visual>
         <collision name="collision">
           <geometry>
